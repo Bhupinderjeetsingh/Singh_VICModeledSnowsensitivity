@@ -21,7 +21,7 @@ The repository is organized into three main folders: `data`, `scripts`, and `plo
 
 ### 1. **data**
 
-This folder contains all the necessary data files for the study, including parameter files, sensitivity analyses, and processed data for model simulations.
+This folder contains all the necessary processed data files for the study, including parameter files, sensitivity analyses, and processed data for model simulations. Due to the large size of the raw data files, they have not been uploaded here. For access to the raw data, please contact the authors.
 
 - **parameterfiles**  
   Contains the complete parameter sample used for model simulations.
