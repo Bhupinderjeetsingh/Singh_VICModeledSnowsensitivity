@@ -13,7 +13,7 @@ library(reshape2)
 
 
 # Set the working directory to the folder containing the results and code
-file_path_results <- "C:/Users/bhupinderjeet.singh/OneDrive - Washington State University (email.wsu.edu)/WSU/Research Proposal/Paper/Sensitivity_analysis/JournalOfHydrology/Proof_read/Codes"
+file_path_results <- "./"
 setwd(file_path_results)
 
 # List the directories containing cumulative frequency distribution (CFD) results
