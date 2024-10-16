@@ -48,10 +48,12 @@ This folder contains all the necessary data files for the study, including param
   
   3. **FOS_max_SWE**  
      - Provides the DELSA First Order Sensitivity values for each grid-parameter combination and the baseline simulation.
+     - Since the file is large, please unzip it to extract the CSV file.
   
   4. **PCA_clustering_input**  
      - Contains the top 200 principal components explaining 85% of the total variance.  
      - These components were used as input for the **k-means clustering** algorithm.
+     - Since the file is large, please unzip it to extract the CSV file.
   
   5. **PrecipRunoffTemp_median**  
      - Median values of monthly precipitation ratio, runoff ratio, and average temperature for each class (cluster).  
