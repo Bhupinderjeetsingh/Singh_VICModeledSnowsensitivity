@@ -71,7 +71,7 @@ This folder contains all the Python scripts used to process the data, perform an
 - **clusteringPlots_and_firstOrderSensitivityVariations.R**  
   - Generates spatial maps of k-means clusters and visualizes the variation in DELSA FOS for each parameter across identified clusters.
   
-- **kmeansClustering_and_SHAPanalysis.py**  
+- **kmeansClustering_and_SHAPanalysis.ipynb**  
   - Python script for performing **k-means clustering**, followed by **XGBoost classification** and **SHAP analysis** to interpret model outputs.
 
 ---
