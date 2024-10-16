@@ -65,10 +65,10 @@ This folder contains all the necessary processed data files for the study, inclu
 
 This folder contains all the Python scripts used to process the data, perform analyses, and generate visualizations.
 
-- **DELSA_analysisAndPlotting.py**  
+- **DELSA_analysisAndPlotting.R**  
   - Analyzes the cumulative frequency distribution (CFD) of DELSA FOS values and calculates the **area above the curve** for each simulation and parameter.
   
-- **clusteringPlots_and_firstOrderSensitivityVariations.py**  
+- **clusteringPlots_and_firstOrderSensitivityVariations.R**  
   - Generates spatial maps of k-means clusters and visualizes the variation in DELSA FOS for each parameter across identified clusters.
   
 - **kmeansClustering_and_SHAPanalysis.py**  
