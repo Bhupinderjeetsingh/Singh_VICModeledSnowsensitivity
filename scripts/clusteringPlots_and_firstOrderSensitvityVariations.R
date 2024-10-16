@@ -7,7 +7,7 @@
 ########################################################################
 
 # Set the working directory where data and scripts are located
-file_path_results <- "C:/Users/bhupinderjeet.singh/OneDrive - Washington State University (email.wsu.edu)/WSU/Research Proposal/Paper/Sensitivity_analysis/JournalOfHydrology/Proof_read/Codes"
+file_path_results <- "./"
 setwd(file_path_results)
 
 # Load necessary libraries
