@@ -1,0 +1,145 @@
+Month,Cluster_name,variable,Median_value,WY_month
+1,Class_1,Precipitation ratio,0.098490691,4
+1,Class_1,Runoff ratio,0,4
+1,Class_1,Mean monthly temperature,-9.31496129,4
+1,Class_2,Precipitation ratio,0.105299095,4
+1,Class_2,Runoff ratio,0,4
+1,Class_2,Mean monthly temperature,-7.237887097,4
+1,Class_3,Precipitation ratio,0.137996908,4
+1,Class_3,Runoff ratio,0.057058176,4
+1,Class_3,Mean monthly temperature,-1.379322581,4
+1,Class_4,Precipitation ratio,0.115997768,4
+1,Class_4,Runoff ratio,0.002175978,4
+1,Class_4,Mean monthly temperature,-4.199287097,4
+2,Class_1,Precipitation ratio,0.070918136,5
+2,Class_1,Runoff ratio,0,5
+2,Class_1,Mean monthly temperature,-7.739972414,5
+2,Class_2,Precipitation ratio,0.075539779,5
+2,Class_2,Runoff ratio,0,5
+2,Class_2,Mean monthly temperature,-5.587030357,5
+2,Class_3,Precipitation ratio,0.098483553,5
+2,Class_3,Runoff ratio,0.053964857,5
+2,Class_3,Mean monthly temperature,-0.197486207,5
+2,Class_4,Precipitation ratio,0.086688494,5
+2,Class_4,Runoff ratio,0.012287759,5
+2,Class_4,Mean monthly temperature,-2.546,5
+3,Class_1,Precipitation ratio,0.080969678,6
+3,Class_1,Runoff ratio,0.014332423,6
+3,Class_1,Mean monthly temperature,-4.329335484,6
+3,Class_2,Precipitation ratio,0.084285801,6
+3,Class_2,Runoff ratio,0.042931134,6
+3,Class_2,Mean monthly temperature,-2.090598387,6
+3,Class_3,Precipitation ratio,0.10067513,6
+3,Class_3,Runoff ratio,0.112387148,6
+3,Class_3,Mean monthly temperature,2.24203871,6
+3,Class_4,Precipitation ratio,0.093665173,6
+3,Class_4,Runoff ratio,0.165266313,6
+3,Class_4,Mean monthly temperature,0.726096774,6
+4,Class_1,Precipitation ratio,0.076986798,7
+4,Class_1,Runoff ratio,0.111624287,7
+4,Class_1,Mean monthly temperature,-0.12662,7
+4,Class_2,Precipitation ratio,0.078151458,7
+4,Class_2,Runoff ratio,0.189624346,7
+4,Class_2,Mean monthly temperature,1.967041667,7
+4,Class_3,Precipitation ratio,0.074642604,7
+4,Class_3,Runoff ratio,0.133878156,7
+4,Class_3,Mean monthly temperature,4.948601667,7
+4,Class_4,Precipitation ratio,0.07710819,7
+4,Class_4,Runoff ratio,0.220728189,7
+4,Class_4,Mean monthly temperature,4.358626667,7
+5,Class_1,Precipitation ratio,0.090615574,8
+5,Class_1,Runoff ratio,0.178087745,8
+5,Class_1,Mean monthly temperature,4.430025806,8
+5,Class_2,Precipitation ratio,0.091477973,8
+5,Class_2,Runoff ratio,0.227400575,8
+5,Class_2,Mean monthly temperature,6.543519355,8
+5,Class_3,Precipitation ratio,0.059002847,8
+5,Class_3,Runoff ratio,0.120423336,8
+5,Class_3,Mean monthly temperature,8.743809677,8
+5,Class_4,Precipitation ratio,0.08376204,8
+5,Class_4,Runoff ratio,0.108242406,8
+5,Class_4,Mean monthly temperature,8.782112903,8
+6,Class_1,Precipitation ratio,0.080459333,9
+6,Class_1,Runoff ratio,0.115178254,9
+6,Class_1,Mean monthly temperature,8.61629,9
+6,Class_2,Precipitation ratio,0.08275689,9
+6,Class_2,Runoff ratio,0.079212883,9
+6,Class_2,Mean monthly temperature,10.405675,9
+6,Class_3,Precipitation ratio,0.04056997,9
+6,Class_3,Runoff ratio,0.039249686,9
+6,Class_3,Mean monthly temperature,11.70985833,9
+6,Class_4,Precipitation ratio,0.076489285,9
+6,Class_4,Runoff ratio,0.057461405,9
+6,Class_4,Mean monthly temperature,12.27743667,9
+7,Class_1,Precipitation ratio,0.054862943,10
+7,Class_1,Runoff ratio,0.044998608,10
+7,Class_1,Mean monthly temperature,12.75980645,10
+7,Class_2,Precipitation ratio,0.043953445,10
+7,Class_2,Runoff ratio,0.022817474,10
+7,Class_2,Mean monthly temperature,14.60099194,10
+7,Class_3,Precipitation ratio,0.01461792,10
+7,Class_3,Runoff ratio,0.006448457,10
+7,Class_3,Mean monthly temperature,16.01122742,10
+7,Class_4,Precipitation ratio,0.029463621,10
+7,Class_4,Runoff ratio,0.012907745,10
+7,Class_4,Mean monthly temperature,16.77500645,10
+8,Class_1,Precipitation ratio,0.054610094,11
+8,Class_1,Runoff ratio,0.035092147,11
+8,Class_1,Mean monthly temperature,12.26909677,11
+8,Class_2,Precipitation ratio,0.042361961,11
+8,Class_2,Runoff ratio,0.017047543,11
+8,Class_2,Mean monthly temperature,14.1343371,11
+8,Class_3,Precipitation ratio,0.016761747,11
+8,Class_3,Runoff ratio,0.004147404,11
+8,Class_3,Mean monthly temperature,15.90878387,11
+8,Class_4,Precipitation ratio,0.027791385,11
+8,Class_4,Runoff ratio,0.00951906,11
+8,Class_4,Mean monthly temperature,16.40339032,11
+9,Class_1,Precipitation ratio,0.060057363,12
+9,Class_1,Runoff ratio,0.037542059,12
+9,Class_1,Mean monthly temperature,7.566403333,12
+9,Class_2,Precipitation ratio,0.050136135,12
+9,Class_2,Runoff ratio,0.023376568,12
+9,Class_2,Mean monthly temperature,9.331475,12
+9,Class_3,Precipitation ratio,0.033738923,12
+9,Class_3,Runoff ratio,0.010188053,12
+9,Class_3,Mean monthly temperature,12.59839833,12
+9,Class_4,Precipitation ratio,0.038470104,12
+9,Class_4,Runoff ratio,0.014178884,12
+9,Class_4,Mean monthly temperature,11.70910667,12
+10,Class_1,Precipitation ratio,0.072413971,1
+10,Class_1,Runoff ratio,0.032899832,1
+10,Class_1,Mean monthly temperature,1.276625806,1
+10,Class_2,Precipitation ratio,0.07056329,1
+10,Class_2,Runoff ratio,0.0356661,1
+10,Class_2,Mean monthly temperature,2.913069355,1
+10,Class_3,Precipitation ratio,0.083208576,1
+10,Class_3,Runoff ratio,0.036347475,1
+10,Class_3,Mean monthly temperature,6.603648387,1
+10,Class_4,Precipitation ratio,0.072100112,1
+10,Class_4,Runoff ratio,0.032913433,1
+10,Class_4,Mean monthly temperature,5.277303226,1
+11,Class_1,Precipitation ratio,0.096154125,2
+11,Class_1,Runoff ratio,0.00997852,2
+11,Class_1,Mean monthly temperature,-5.323373333,2
+11,Class_2,Precipitation ratio,0.106227656,2
+11,Class_2,Runoff ratio,0.02011669,2
+11,Class_2,Mean monthly temperature,-3.505585,2
+11,Class_3,Precipitation ratio,0.144761398,2
+11,Class_3,Runoff ratio,0.073350484,2
+11,Class_3,Mean monthly temperature,1.280378333,2
+11,Class_4,Precipitation ratio,0.118604484,2
+11,Class_4,Runoff ratio,0.044097847,2
+11,Class_4,Mean monthly temperature,-0.968023333,2
+12,Class_1,Precipitation ratio,0.093685348,3
+12,Class_1,Runoff ratio,0,3
+12,Class_1,Mean monthly temperature,-9.514422581,3
+12,Class_2,Precipitation ratio,0.10347348,3
+12,Class_2,Runoff ratio,0.000113247,3
+12,Class_2,Mean monthly temperature,-7.372848387,3
+12,Class_3,Precipitation ratio,0.141708725,3
+12,Class_3,Runoff ratio,0.04725019,3
+12,Class_3,Mean monthly temperature,-1.658530645,3
+12,Class_4,Precipitation ratio,0.121612579,3
+12,Class_4,Runoff ratio,0.008992478,3
+12,Class_4,Mean monthly temperature,-4.589980645,3
