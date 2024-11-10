@@ -17,8 +17,8 @@ library(reshape2)
 library(rgdal)
 
 # Load shapefiles for spatial visualization (Columbia River Basin and PNW HUC6 regions)
-CRB_shapefile <- readOGR("C:/Users/bhupinderjeet.singh/OneDrive - Washington State University (email.wsu.edu)/Project/BSYSE_retreat/Snow_dominated_analysis/Shapefiles/CRB/WBDHU2.shp", verbose = FALSE)
-PNW_HUC6 <- readOGR("C:/Users/bhupinderjeet.singh/OneDrive - Washington State University (email.wsu.edu)/Project/BSYSE_retreat/Snow_dominated_analysis/Shapefiles/HUC6/pnw_huc6_wgs84.shp", verbose = FALSE)
+CRB_shapefile <- readOGR("./WBDHU2.shp", verbose = FALSE)
+PNW_HUC6 <- readOGR("./pnw_huc6_wgs84.shp", verbose = FALSE)
 
 # Load k-means clustering results (latitude, longitude, and cluster IDs)
 kmeans_clusters <- read.csv("./data/processed_data/DELSA_kmeans_clusters.csv") %>% 
